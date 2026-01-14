@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-adi-s (Aditya Shrimali)
-- 👀 I’m interested in ... (Group Projects Over Python, JS And Java)
-- 🌱 I’m currently learning ... (JAVA And JS)
+- 👀 I’m interested in ... (Group Projects Over Python And Data Science)
+- 🌱 I’m currently learning ... (Machine Learning)
 - 💞️ I’m looking to collaborate on ... (ANY PYTHON RELATED PROJECTS)
 - 📫 How to reach me ... (dev.aditya.shrimali@gmail.com)
 
